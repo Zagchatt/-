@@ -12,8 +12,8 @@ padding: 4.0px;" class="border" ><i class="fa fa-forumbee"></i>&nbsp;المدو�
 $('.nav-tabs').addClass('fl').css('width','100%');
 $('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img id="as13" src="sico/z1ddjdmlvp10.png" width="70%" style="">`)
 $("div#tlogins button.btn.btn-primary").click(function(){var b=setInterval(function(){var c=$(".pmsgc").length;0<c?($(` </div><center>
-</div><center><a class="fl mini fa fa-bullhorn  btn btnn-default">&nbsp; محرر ومعدل الصور بـ احترافيه للجميع</a>
-<iframe type="text/html" id="jfa200" width="85%" height="100%" src="https://www.photoeditoangel.com/photo-editor/pixie/" scrolling="no" frameborder="0"></iframe>
+</div><center><a class="fl mini fa fa-bullhorn  btn btnn-default">&nbsp; بث شات درر العرب</a>
+<iframe type="text/html" id="jfa200" width="85%" height="100%" src="https://www.instagram.com/3asltime/live/" scrolling="no" frameborder="0"></iframe>
 <iframe type="text/html" id="jfa150" width="100%" height="100px" src="https://raw.githack.com/Zagchatt/NEWkaz/main/radio.html" scrolling="no" frameborder="0"></iframe>
 <img id="jfa180" border="0" src="https://mrkzgulfup.com/uploads/160655645727691.jpg" /></a>
 <a id="jfa160"target="_blank"type="a"href="https://t.me/Zagiq"style="border-radius: 0 0 0 10%; border-left: 2px solid#a6a6a6; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">أتصل بنا</a>
